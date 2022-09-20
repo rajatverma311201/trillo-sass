@@ -8,8 +8,8 @@
 
 ## DESKTOP VIEW
 
-![Screenshot](/img/website-screenshot.png)
+![Screenshot](/img/website-screenshot-desktop-view.png)
 
 ## MOBILE VIEW
 
-![Screenshot](/img/website-screenshot-mobile.png)
+![Screenshot](/img/website-screenshot-mobile-view.png)
