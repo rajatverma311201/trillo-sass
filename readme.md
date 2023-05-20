@@ -1,9 +1,12 @@
-## Made while learning CSS FLEXBOX
+# Trillo
+
+# Made while learning CSS FLEXBOX
 
 <hr>
 
-### [Click to see live demo](https://trillo-sass-web.netlify.app/)
+## [Click to see live demo](https://trillo-sass-web.netlify.app/)
 
+### Website designed by Jonas Schmedtmann
 <hr>
 
 ## DESKTOP VIEW
